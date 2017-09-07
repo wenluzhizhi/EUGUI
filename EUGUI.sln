@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DC0D9233-6914-04F4-C297-0109D6C8ABFC}") = "EUGUI", "Assembly-CSharp.csproj", "{3B576976-716E-1D68-0020-CEC77E115C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B576976-716E-1D68-0020-CEC77E115C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B576976-716E-1D68-0020-CEC77E115C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B576976-716E-1D68-0020-CEC77E115C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B576976-716E-1D68-0020-CEC77E115C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

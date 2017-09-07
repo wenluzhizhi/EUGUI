@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Sences/SimpleCurve/SimpleCurve.unity
+  isLoaded: 1
+  isActive: 1

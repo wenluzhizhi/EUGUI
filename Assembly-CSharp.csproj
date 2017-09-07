@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}</ProjectGuid>
+    <ProjectGuid>{3B576976-716E-1D68-0020-CEC77E115C5B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -46,9 +46,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\EGUI\Scripts\BaseImageGraph.cs" />
-     <Compile Include="Assets\EGUI\Scripts\EGUICurve.cs" />
      <Compile Include="Assets\EGUI\Scripts\EGUITools.cs" />
      <Compile Include="Assets\EGUI\Scripts\EMeshTools.cs" />
+     <Compile Include="Assets\EGUI\Scripts\ESingleCurve.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity3d5.3/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
